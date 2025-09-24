@@ -1,0 +1,25 @@
+# OS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.coverage
+
+# Environments
+venv/
+.env
+
+# Editor
+.vscode/
+.idea/
+
+# App runtime artifacts
+logs/
+data/cache.db
+data/exports/
+
+# Config containing secrets (example stays tracked)
+config/config.yaml

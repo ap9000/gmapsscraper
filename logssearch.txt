@@ -1,0 +1,771 @@
+6d",
+      "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=68d373cbb2c8ad1c3f875812&data_id=0x880519a43e77328d:0xa7be0bcd5803de6d",
+      "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=68d373cbb2c8ad1c3f875812&data_id=0x880519a43e77328d:0xa7be0bcd5803de6d",
+      "gps_coordinates": {
+        "latitude": 43.040151699999996,
+        "longitude": -87.9082238
+      },
+      "provider_id": "/g/1tfrbrmf",
+      "rating": 4.4,
+      "reviews": 15,
+      "type": "Personal injury attorney",
+      "types": [
+        "Personal injury attorney",
+        "Law firm",
+        "Attorney",
+        "Legal services",
+        "Trial attorney"
+      ],
+      "address": "757 N Broadway Suite 201,Milwaukee, WI 53202",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours"
+      },
+      "phone": "+14142725564",
+      "website": "https://www.casey-injurylaw.com/",
+      "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipNcNb-FKBP2siMEUOXLCfA4kGnAHM-_lIRdbPoZ=w91-h86-k-no",
+      "image": "https://lh3.googleusercontent.com/p/AF1QipNcNb-FKBP2siMEUOXLCfA4kGnAHM-_lIRdbPoZ=w839-h790-k-no",
+      "google_maps_url": "https://www.google.com/maps/place/Casey+Law+Offices,+S.C./@43.040151699999996,-87.9082238,NaN/data=!3m1!1e3!4m6!3m5!1s0x880519a43e77328d:0xa7be0bcd5803de6d!8m2!3d43.040151699999996!4d-87.9082238!16s"
+    },
+    {
+      "title": "Miller & Miller Law, LLC",
+      "place_id": "ChIJZ3qejBsZBYgRIFU95kustNY",
+      "data_id": "0x8805191b8c9e7a67:0xd6b4ac4be63d5520",
+      "data_cid": "-2975564011799751392",
+      "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=68d373cbb2c8ad1c3f875812&data_id=0x8805191b8c9e7a67:0xd6b4ac4be63d5520",
+      "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=68d373cbb2c8ad1c3f875812&data_id=0x8805191b8c9e7a67:0xd6b4ac4be63d5520",
+      "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=68d373cbb2c8ad1c3f875812&data_id=0x8805191b8c9e7a67:0xd6b4ac4be63d5520",
+      "gps_coordinates": {
+        "latitude": 43.027024499999996,
+        "longitude": -87.91969929999999
+      },
+      "provider_id": "/g/11rr32t7wb",
+      "rating": 4.7,
+      "reviews": 1143,
+      "type": "Bankruptcy attorney",
+      "types": [
+        "Bankruptcy attorney",
+        "Bankruptcy service",
+        "Law firm",
+        "Attorney",
+        "Personal injury attorney",
+        "Social security attorney",
+        "Trial attorney"
+      ],
+      "address": "700 W Virginia St # 605,Milwaukee, WI 53204",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours"
+      },
+      "phone": "+14143126581",
+      "website": "https://www.millermillerlaw.com/?npcmp=dir:local:1081930:53203",
+      "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipOF4krN146Q1791n6eFPXO_GYyRVjZmqShwMEEG=w152-h86-k-no",
+      "image": "https://lh3.googleusercontent.com/p/AF1QipOF4krN146Q1791n6eFPXO_GYyRVjZmqShwMEEG=w1105-h622-k-no",
+      "google_maps_url": "https://www.google.com/maps/place/Miller+&+Miller+Law,+LLC/@43.027024499999996,-87.91969929999999,NaN/data=!3m1!1e3!4m6!3m5!1s0x8805191b8c9e7a67:0xd6b4ac4be63d5520!8m2!3d43.027024499999996!4d-87.91969929999999!16s"
+    },
+    {
+      "title": "Phillips, Cymerman & Trager, S.C.",
+      "place_id": "ChIJe_K7QqAZBYgRjAjTTZqBE_4",
+      "data_id": "0x880519a042bbf27b:0xfe13819a4dd3088c",
+      "data_cid": "-138624663787730804",
+      "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=68d373cbb2c8ad1c3f875812&data_id=0x880519a042bbf27b:0xfe13819a4dd3088c",
+      "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=68d373cbb2c8ad1c3f875812&data_id=0x880519a042bbf27b:0xfe13819a4dd3088c",
+      "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=68d373cbb2c8ad1c3f875812&data_id=0x880519a042bbf27b:0xfe13819a4dd3088c",
+      "gps_coordinates": {
+        "latitude": 43.038404799999995,
+        "longitude": -87.9121218
+      },
+      "provider_id": "/g/1td2_0mw",
+      "rating": 4.9,
+      "reviews": 63,
+      "type": "Personal injury attorney",
+      "types": [
+        "Personal injury attorney",
+        "Employment attorney"
+      ],
+      "address": "161 W Wisconsin Ave #5000,Milwaukee, WI 53203",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours"
+      },
+      "phone": "+14142714262",
+      "website": "http://www.themilwaukeelawyer.com/",
+      "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipP5JbsrY4N93jYYgg_rIXVt0xjTbMTXph-Trh3k=w128-h86-k-no",
+      "image": "https://lh3.googleusercontent.com/p/AF1QipP5JbsrY4N93jYYgg_rIXVt0xjTbMTXph-Trh3k=w1000-h667-k-no",
+      "google_maps_url": "https://www.google.com/maps/place/Phillips,+Cymerman+&+Trager,+S.C./@43.038404799999995,-87.9121218,NaN/data=!3m1!1e3!4m6!3m5!1s0x880519a042bbf27b:0xfe13819a4dd3088c!8m2!3d43.038404799999995!4d-87.9121218!16s"
+    },
+    {
+      "title": "The Law Office of Michael Hayes, LLC",
+      "place_id": "ChIJd5R1kqsZBYgRBV9v8SGNbIs",
+      "data_id": "0x880519ab92759477:0x8b6c8d21f16f5f05",
+      "data_cid": "-8400184028028772603",
+      "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=68d373cbb2c8ad1c3f875812&data_id=0x880519ab92759477:0x8b6c8d21f16f5f05",
+      "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=68d373cbb2c8ad1c3f875812&data_id=0x880519ab92759477:0x8b6c8d21f16f5f05",
+      "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=68d373cbb2c8ad1c3f875812&data_id=0x880519ab92759477:0x8b6c8d21f16f5f05",
+      "gps_coordinates": {
+        "latitude": 43.039040199999995,
+        "longitude": -87.90704629999999
+      },
+      "provider_id": "/g/11f79bm81y",
+      "rating": 4.8,
+      "reviews": 45,
+      "type": "Criminal justice attorney",
+      "types": [
+        "Criminal justice attorney",
+        "Law firm",
+        "Attorney",
+        "Personal injury attorney"
+      ],
+      "address": "324 E Wisconsin Ave #1111,Milwaukee, WI 53202",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours"
+      },
+      "phone": "+14144055678",
+      "website": "https://michaelhayeslaw.com/?utm_source=city&utm_medium=organic&utm_id=GBP",
+      "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPVKUR9iq9s6cELw-WPvFM18Dqe7ihK5nb2hy7P=w129-h86-k-no",
+      "image": "https://lh3.googleusercontent.com/p/AF1QipPVKUR9iq9s6cELw-WPvFM18Dqe7ihK5nb2hy7P=w4896-h3264-k-no",
+      "google_maps_url": "https://www.google.com/maps/place/The+Law+Office+of+Michael+Hayes,+LLC/@43.039040199999995,-87.90704629999999,NaN/data=!3m1!1e3!4m6!3m5!1s0x880519ab92759477:0x8b6c8d21f16f5f05!8m2!3d43.039040199999995!4d-87.90704629999999!16s"
+    },
+    {
+      "title": "Morgan & Morgan",
+      "place_id": "ChIJwbjJBH4ZBYgRCUYKZUGe3Lw",
+      "data_id": "0x8805197e04c9b8c1:0xbcdc9e41650a4609",
+      "data_cid": "-4837817895997520375",
+      "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=68d373cbb2c8ad1c3f875812&data_id=0x8805197e04c9b8c1:0xbcdc9e41650a4609",
+      "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=68d373cbb2c8ad1c3f875812&data_id=0x8805197e04c9b8c1:0xbcdc9e41650a4609",
+      "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=68d373cbb2c8ad1c3f875812&data_id=0x8805197e04c9b8c1:0xbcdc9e41650a4609",
+      "gps_coordinates": {
+        "latitude": 43.0391117,
+        "longitude": -87.90826489999999
+      },
+      "provider_id": "/g/11fwbnxjw_",
+      "rating": 4.6,
+      "reviews": 321,
+      "type": "Personal injury attorney",
+      "types": [
+        "Personal injury attorney",
+        "Business attorney",
+        "Employment attorney",
+        "Law firm"
+      ],
+      "address": "250 E Wisconsin Ave Suite 33,Milwaukee, WI 53202",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours"
+      },
+      "phone": "+14144887130",
+      "website": "https://www.forthepeople.com/office-locations/wisconsin/milwaukee/?utm_source=GMB&utm_medium=local&utm_campaign=MilwaukeeWIGMB",
+      "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipN0xUV7bZvTwf5WEBZWhQSOB_wgGAKaAf2RfeUz=w153-h86-k-no",
+      "image": "https://lh3.googleusercontent.com/p/AF1QipN0xUV7bZvTwf5WEBZWhQSOB_wgGAKaAf2RfeUz=w3160-h1768-k-no",
+      "google_maps_url": "https://www.google.com/maps/place/Morgan+&+Morgan/@43.0391117,-87.90826489999999,NaN/data=!3m1!1e3!4m6!3m5!1s0x8805197e04c9b8c1:0xbcdc9e41650a4609!8m2!3d43.0391117!4d-87.90826489999999!16s"
+    },
+    {
+      "title": "Law Offices of Christopher J. Cherella",
+      "place_id": "ChIJBd2kC50ZBYgRgcX7kzYksKA",
+      "data_id": "0x8805199d0ba4dd05:0xa0b0243693fbc581",
+      "data_cid": "-6867949614910421631",
+      "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=68d373cbb2c8ad1c3f875812&data_id=0x8805199d0ba4dd05:0xa0b0243693fbc581",
+      "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=68d373cbb2c8ad1c3f875812&data_id=0x8805199d0ba4dd05:0xa0b0243693fbc581",
+      "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=68d373cbb2c8ad1c3f875812&data_id=0x8805199d0ba4dd05:0xa0b0243693fbc581",
+      "gps_coordinates": {
+        "latitude": 43.0296111,
+        "longitude": -87.911279
+      },
+      "provider_id": "/g/1tgdjkqy",
+      "rating": 4.7,
+      "reviews": 96,
+      "type": "Criminal justice attorney",
+      "types": [
+        "Criminal justice attorney"
+      ],
+      "address": "161 S 1st St #200,Milwaukee, WI 53204",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours"
+      },
+      "phone": "+14142616455",
+      "website": "https://www.wicriminaldefense.com/?utm_source=GMB&utm_medium=organic&utm_campaign=Milwaukee",
+      "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPpG7a6XTV9B1HBsOGtOFhMzRpglKznbZHrvIPZ=w152-h86-k-no",
+      "image": "https://lh3.googleusercontent.com/p/AF1QipPpG7a6XTV9B1HBsOGtOFhMzRpglKznbZHrvIPZ=w2048-h1152-k-no",
+      "google_maps_url": "https://www.google.com/maps/place/Law+Offices+of+Christopher+J.+Cherella/@43.0296111,-87.911279,NaN/data=!3m1!1e3!4m6!3m5!1s0x8805199d0ba4dd05:0xa0b0243693fbc581!8m2!3d43.0296111!4d-87.911279!16s"
+    },
+    {
+      "title": "Katz Law, LLC",
+      "place_id": "ChIJyxXnCI0ZBYgR_UwGCfRGrbM",
+      "data_id": "0x8805198d08e715cb:0xb3ad46f409064cfd",
+      "data_cid": "-5499661556012135171",
+      "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=68d373cbb2c8ad1c3f875812&data_id=0x8805198d08e715cb:0xb3ad46f409064cfd",
+      "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=68d373cbb2c8ad1c3f875812&data_id=0x8805198d08e715cb:0xb3ad46f409064cfd",
+      "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=68d373cbb2c8ad1c3f875812&data_id=0x8805198d08e715cb:0xb3ad46f409064cfd",
+      "gps_coordinates": {
+        "latitude": 43.0385529,
+        "longitude": -87.9115297
+      },
+      "provider_id": "/g/11kphfqpkr",
+      "rating": 4.9,
+      "reviews": 272,
+      "type": "Legal services",
+      "types": [
+        "Legal services"
+      ],
+      "address": "250 E Wisconsin Ave #1800,Milwaukee, WI 53202",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours"
+      },
+      "phone": "+14146781238",
+      "website": "http://katzlegaldefense.com/",
+      "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipN2uGckDYzySctSwYH7BViH3ElHfn0Ersj4Qw8M=w107-h86-k-no",
+      "image": "https://lh3.googleusercontent.com/p/AF1QipN2uGckDYzySctSwYH7BViH3ElHfn0Ersj4Qw8M=w6523-h5218-k-no",
+      "google_maps_url": "https://www.google.com/maps/place/Katz+Law,+LLC/@43.0385529,-87.9115297,NaN/data=!3m1!1e3!4m6!3m5!1s0x8805198d08e715cb:0xb3ad46f409064cfd!8m2!3d43.0385529!4d-87.9115297!16s"
+    },
+    {
+      "title": "Divergent Family Law",
+      "place_id": "ChIJf2ZJkhQZBYgRs86_vXln3IM",
+      "data_id": "0x880519149249667f:0x83dc6779bdbfceb3",
+      "data_cid": "-8945160987292479821",
+      "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=68d373cbb2c8ad1c3f875812&data_id=0x880519149249667f:0x83dc6779bdbfceb3",
+      "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=68d373cbb2c8ad1c3f875812&data_id=0x880519149249667f:0x83dc6779bdbfceb3",
+      "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=68d373cbb2c8ad1c3f875812&data_id=0x880519149249667f:0x83dc6779bdbfceb3",
+      "gps_coordinates": {
+        "latitude": 43.0523283,
+        "longitude": -87.90585829999999
+      },
+      "provider_id": "/g/11h3g6x8kf",
+      "rating": 4.8,
+      "reviews": 119,
+      "type": "Divorce lawyer",
+      "types": [
+        "Divorce lawyer",
+        "Divorce service",
+        "Family law attorney",
+        "Law firm"
+      ],
+      "address": "1661 N Water St,Milwaukee, WI 53202",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours",
+        "tuesday": "Open 24 hours"
+      },
+      "phone": "+14142381345",
+      "website": "https://www.divergentfamilylaw.com/locations/milwaukee/?utm_source=google&utm_medium=organic&utm_campaign=GBPMilwauke",
+      "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipMsvbulcbtx99Wd7BZ7Uu9ddWepx1nqg_QPZXLb=w152-h86-k-no",
+      "image": "https://lh3.googleusercontent.com/p/AF1QipMsvbulcbtx99Wd7BZ7Uu9ddWepx1nqg_QPZXLb=w1080-h608-k-no",
+      "google_maps_url": "https://www.google.com/maps/place/Divergent+Family+Law/@43.0523283,-87.90585829999999,NaN/data=!3m1!1e3!4m6!3m5!1s0x880519149249667f:0x83dc6779bdbfceb3!8m2!3d43.0523283!4d-87.90585829999999!16s"
+    }
+  ]
+}
+2025-09-23 22:53:23,813 - scraper - DEBUG - === RESPONSE ANALYSIS ===
+2025-09-23 22:53:23,814 - scraper - DEBUG - Response data type: <class 'dict'>
+2025-09-23 22:53:23,814 - scraper - DEBUG - Response keys: ['search_results']
+2025-09-23 22:53:23,814 - scraper - DEBUG - Key 'search_results': type=<class 'list'>, length=20
+2025-09-23 22:53:23,814 - scraper - DEBUG - First item in 'search_results': {
+  "title": "Gruber Law Offices, LLC",
+  "place_id": "ChIJG2btpaAZBYgR8RtQptPNYDI",
+  "data_id": "0x880519a0a5ed661b:0x3260cdd3a6501bf1",
+  "data_cid": "3630127608572681201",
+  "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=68d373cbb2c8ad1c3f875812&data_id=0x880519a0a5ed661b:0x3260cdd3a6501bf1",
+  "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=68d373cbb2c8ad1c3f875812&data_id=0x880519a0a5ed661b:0x3260cdd3a6501bf1",
+  "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=68d373cbb2c8ad1c3f875812&data_id=0x880519a0a5ed661b:0x3260cdd3a6501bf1",
+  "gps_coordinates": {
+    "latitude": 43.0385255,
+    "longitude": -87.90585829999999
+  },
+  "provider_id": "/g/1tf3zyn1",
+  "rating": 4.7,
+  "reviews": 1648,
+  "type": "Personal injury attorney",
+  "types": [
+    "Personal injury attorney",
+    "General practice attorney",
+    "Law firm",
+    "Attorney",
+    "Legal services"
+  ],
+  "address": "411 E Wisconsin Ave Floor 19,Milwaukee, WI 53202",
+  "open_state": "Open 24 hours",
+  "hours": "Open 24 hours",
+  "operating_hours": {
+    "wednesday": "Open 24 hours",
+    "thursday": "Open 24 hours",
+    "friday": "Open 24 hours",
+    "saturday": "Open 24 hours",
+    "sunday": "Open 24 hours",
+    "monday": "Open 24 hours",
+    "tuesday": "Open 24 hours"
+  },
+  "phone": "+14146677111",
+  "website": "https://www.gruber-law.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp-listing-milwaukee",
+  "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipP4Eqmy-xFOnr0Xb8gDcAUNZtMsff5QDmQ5gJuq=w128-h86-k-no",
+  "image": "https://lh3.googleusercontent.com/p/AF1QipP4Eqmy-xFOnr0Xb8gDcAUNZtMsff5QDmQ5gJuq=w5841-h3899-k-no",
+  "google_maps_url": "https://www.google.com/maps/place/Gruber+Law+Offices,+LLC/@43.0385255,-87.90585829999999,NaN/data=!3m1!1e3!4m6!3m5!1s0x880519a0a5ed661b:0x3260cdd3a6501bf1!8m2!3d43.0385255!4d-87.90585829999999!16s"
+}
+2025-09-23 22:53:23,814 - scraper - DEBUG - Businesses found in key: 'search_results'
+2025-09-23 22:53:23,815 - scraper - DEBUG - Number of businesses: 20
+2025-09-23 22:53:23,815 - scraper - DEBUG - Processing business 1/20
+2025-09-23 22:53:23,815 - scraper - DEBUG - Business keys: ['title', 'place_id', 'data_id', 'data_cid', 'reviews_link', 'photos_link', 'posts_link', 'gps_coordinates', 'provider_id', 'rating', 'reviews', 'type', 'types', 'address', 'open_state', 'hours', 'operating_hours', 'phone', 'website', 'thumbnail', 'image', 'google_maps_url']
+2025-09-23 22:53:23,815 - scraper - DEBUG - Successfully parsed business: Gruber Law Offices, LLC
+2025-09-23 22:53:23,815 - scraper - DEBUG - Processing business 2/20
+2025-09-23 22:53:23,815 - scraper - DEBUG - Business keys: ['title', 'place_id', 'data_id', 'data_cid', 'reviews_link', 'photos_link', 'posts_link', 'gps_coordinates', 'provider_id', 'rating', 'reviews', 'type', 'types', 'address', 'open_state', 'hours', 'operating_hours', 'phone', 'website', 'thumbnail', 'image', 'google_maps_url']
+2025-09-23 22:53:23,815 - scraper - DEBUG - Successfully parsed business: Bayer Law Offices
+2025-09-23 22:53:23,815 - scraper - DEBUG - Processing business 3/20
+2025-09-23 22:53:23,815 - scraper - DEBUG - Business keys: ['title', 'place_id', 'data_id', 'data_cid', 'reviews_link', 'photos_link', 'posts_link', 'gps_coordinates', 'provider_id', 'rating', 'reviews', 'type', 'types', 'address', 'open_state', 'hours', 'operating_hours', 'phone', 'website', 'thumbnail', 'image', 'google_maps_url']
+2025-09-23 22:53:23,815 - scraper - DEBUG - Successfully parsed business: Ohiku Law Office
+2025-09-23 22:53:23,815 - scraper - DEBUG - Processing business 4/20
+2025-09-23 22:53:23,815 - scraper - DEBUG - Business keys: ['title', 'place_id', 'data_id', 'data_cid', 'reviews_link', 'photos_link', 'posts_link', 'gps_coordinates', 'provider_id', 'rating', 'reviews', 'type', 'types', 'address', 'open_state', 'hours', 'operating_hours', 'phone', 'website', 'thumbnail', 'image', 'google_maps_url']
+2025-09-23 22:53:23,815 - scraper - DEBUG - Successfully parsed business: PKSD
+2025-09-23 22:53:23,816 - scraper - DEBUG - Processing business 5/20
+2025-09-23 22:53:23,816 - scraper - DEBUG - Business keys: ['title', 'place_id', 'data_id', 'data_cid', 'reviews_link', 'photos_link', 'posts_link', 'gps_coordinates', 'provider_id', 'rating', 'reviews', 'type', 'types', 'address', 'open_state', 'hours', 'operating_hours', 'phone', 'website', 'thumbnail', 'image', 'google_maps_url']
+2025-09-23 22:53:23,816 - scraper - DEBUG - Successfully parsed business: Warshafsky Law Firm
+2025-09-23 22:53:23,816 - scraper - DEBUG - Processing business 6/20
+2025-09-23 22:53:23,816 - scraper - DEBUG - Business keys: ['title', 'place_id', 'data_id', 'data_cid', 'reviews_link', 'photos_link', 'posts_link', 'gps_coordinates', 'provider_id', 'rating', 'reviews', 'type', 'types', 'address', 'open_state', 'hours', 'operating_hours', 'phone', 'website', 'thumbnail', 'image', 'google_maps_url']
+2025-09-23 22:53:23,816 - scraper - DEBUG - Successfully parsed business: Nicolet Law Accident & Injury Lawyers
+2025-09-23 22:53:23,816 - scraper - DEBUG - Processing business 7/20
+2025-09-23 22:53:23,816 - scraper - DEBUG - Business keys: ['title', 'place_id', 'data_id', 'data_cid', 'reviews_link', 'photos_link', 'posts_link', 'gps_coordinates', 'provider_id', 'rating', 'reviews', 'type', 'types', 'address', 'open_state', 'hours', 'operating_hours', 'phone', 'website', 'thumbnail', 'image', 'google_maps_url']
+2025-09-23 22:53:23,816 - scraper - DEBUG - Successfully parsed business: Sterling Lawyers, LLC
+2025-09-23 22:53:23,816 - scraper - DEBUG - Processing business 8/20
+2025-09-23 22:53:23,816 - scraper - DEBUG - Business keys: ['title', 'place_id', 'data_id', 'data_cid', 'reviews_link', 'photos_link', 'posts_link', 'gps_coordinates', 'provider_id', 'rating', 'reviews', 'type', 'types', 'address', 'open_state', 'hours', 'operating_hours', 'phone', 'website', 'thumbnail', 'image', 'google_maps_url']
+2025-09-23 22:53:23,816 - scraper - DEBUG - Successfully parsed business: Sperling Law Offices LLC
+2025-09-23 22:53:23,816 - scraper - DEBUG - Processing business 9/20
+2025-09-23 22:53:23,816 - scraper - DEBUG - Business keys: ['title', 'place_id', 'data_id', 'data_cid', 'reviews_link', 'photos_link', 'posts_link', 'gps_coordinates', 'provider_id', 'rating', 'reviews', 'type', 'types', 'address', 'open_state', 'hours', 'operating_hours', 'phone', 'website', 'thumbnail', 'image', 'google_maps_url']
+2025-09-23 22:53:23,816 - scraper - DEBUG - Successfully parsed business: Groth Law Accident Injury Attorneys
+2025-09-23 22:53:23,816 - scraper - DEBUG - Processing business 10/20
+2025-09-23 22:53:23,816 - scraper - DEBUG - Business keys: ['title', 'place_id', 'data_id', 'data_cid', 'reviews_link', 'photos_link', 'posts_link', 'gps_coordinates', 'provider_id', 'rating', 'reviews', 'type', 'types', 'address', 'open_state', 'hours', 'operating_hours', 'phone', 'website', 'thumbnail', 'image', 'google_maps_url']
+2025-09-23 22:53:23,816 - scraper - DEBUG - Successfully parsed business: Lindner Law LLC
+2025-09-23 22:53:23,816 - scraper - DEBUG - Processing business 11/20
+2025-09-23 22:53:23,816 - scraper - DEBUG - Business keys: ['title', 'place_id', 'data_id', 'data_cid', 'reviews_link', 'photos_link', 'posts_link', 'gps_coordinates', 'provider_id', 'rating', 'reviews', 'type', 'types', 'address', 'open_state', 'hours', 'operating_hours', 'phone', 'website', 'thumbnail', 'image', 'google_maps_url']
+2025-09-23 22:53:23,816 - scraper - DEBUG - Successfully parsed business: Hupy and Abraham
+2025-09-23 22:53:23,816 - scraper - DEBUG - Processing business 12/20
+2025-09-23 22:53:23,816 - scraper - DEBUG - Business keys: ['title', 'place_id', 'data_id', 'data_cid', 'reviews_link', 'photos_link', 'posts_link', 'gps_coordinates', 'provider_id', 'rating', 'reviews', 'type', 'types', 'address', 'open_state', 'hours', 'operating_hours', 'phone', 'website', 'thumbnail', 'image', 'google_maps_url']
+2025-09-23 22:53:23,817 - scraper - DEBUG - Successfully parsed business: Van Severen Law Office, S.C.
+2025-09-23 22:53:23,817 - scraper - DEBUG - Processing business 13/20
+2025-09-23 22:53:23,817 - scraper - DEBUG - Business keys: ['title', 'place_id', 'data_id', 'data_cid', 'reviews_link', 'photos_link', 'posts_link', 'gps_coordinates', 'provider_id', 'rating', 'reviews', 'type', 'types', 'address', 'open_state', 'hours', 'operating_hours', 'phone', 'website', 'thumbnail', 'image', 'google_maps_url']
+2025-09-23 22:53:23,817 - scraper - DEBUG - Successfully parsed business: Casey Law Offices, S.C.
+2025-09-23 22:53:23,817 - scraper - DEBUG - Processing business 14/20
+2025-09-23 22:53:23,817 - scraper - DEBUG - Business keys: ['title', 'place_id', 'data_id', 'data_cid', 'reviews_link', 'photos_link', 'posts_link', 'gps_coordinates', 'provider_id', 'rating', 'reviews', 'type', 'types', 'address', 'open_state', 'hours', 'operating_hours', 'phone', 'website', 'thumbnail', 'image', 'google_maps_url']
+2025-09-23 22:53:23,817 - scraper - DEBUG - Successfully parsed business: Miller & Miller Law, LLC
+2025-09-23 22:53:23,817 - scraper - DEBUG - Processing business 15/20
+2025-09-23 22:53:23,817 - scraper - DEBUG - Business keys: ['title', 'place_id', 'data_id', 'data_cid', 'reviews_link', 'photos_link', 'posts_link', 'gps_coordinates', 'provider_id', 'rating', 'reviews', 'type', 'types', 'address', 'open_state', 'hours', 'operating_hours', 'phone', 'website', 'thumbnail', 'image', 'google_maps_url']
+2025-09-23 22:53:23,817 - scraper - DEBUG - Successfully parsed business: Phillips, Cymerman & Trager, S.C.
+2025-09-23 22:53:23,817 - scraper - DEBUG - Processing business 16/20
+2025-09-23 22:53:23,817 - scraper - DEBUG - Business keys: ['title', 'place_id', 'data_id', 'data_cid', 'reviews_link', 'photos_link', 'posts_link', 'gps_coordinates', 'provider_id', 'rating', 'reviews', 'type', 'types', 'address', 'open_state', 'hours', 'operating_hours', 'phone', 'website', 'thumbnail', 'image', 'google_maps_url']
+2025-09-23 22:53:23,817 - scraper - DEBUG - Successfully parsed business: The Law Office of Michael Hayes, LLC
+2025-09-23 22:53:23,817 - scraper - DEBUG - Processing business 17/20
+2025-09-23 22:53:23,817 - scraper - DEBUG - Business keys: ['title', 'place_id', 'data_id', 'data_cid', 'reviews_link', 'photos_link', 'posts_link', 'gps_coordinates', 'provider_id', 'rating', 'reviews', 'type', 'types', 'address', 'open_state', 'hours', 'operating_hours', 'phone', 'website', 'thumbnail', 'image', 'google_maps_url']
+2025-09-23 22:53:23,817 - scraper - DEBUG - Successfully parsed business: Morgan & Morgan
+2025-09-23 22:53:23,817 - scraper - DEBUG - Processing business 18/20
+2025-09-23 22:53:23,817 - scraper - DEBUG - Business keys: ['title', 'place_id', 'data_id', 'data_cid', 'reviews_link', 'photos_link', 'posts_link', 'gps_coordinates', 'provider_id', 'rating', 'reviews', 'type', 'types', 'address', 'open_state', 'hours', 'operating_hours', 'phone', 'website', 'thumbnail', 'image', 'google_maps_url']
+2025-09-23 22:53:23,817 - scraper - DEBUG - Successfully parsed business: Law Offices of Christopher J. Cherella
+2025-09-23 22:53:23,817 - scraper - DEBUG - Processing business 19/20
+2025-09-23 22:53:23,817 - scraper - DEBUG - Business keys: ['title', 'place_id', 'data_id', 'data_cid', 'reviews_link', 'photos_link', 'posts_link', 'gps_coordinates', 'provider_id', 'rating', 'reviews', 'type', 'types', 'address', 'open_state', 'hours', 'operating_hours', 'phone', 'website', 'thumbnail', 'image', 'google_maps_url']
+2025-09-23 22:53:23,817 - scraper - DEBUG - Successfully parsed business: Katz Law, LLC
+2025-09-23 22:53:23,817 - scraper - DEBUG - Processing business 20/20
+2025-09-23 22:53:23,817 - scraper - DEBUG - Business keys: ['title', 'place_id', 'data_id', 'data_cid', 'reviews_link', 'photos_link', 'posts_link', 'gps_coordinates', 'provider_id', 'rating', 'reviews', 'type', 'types', 'address', 'open_state', 'hours', 'operating_hours', 'phone', 'website', 'thumbnail', 'image', 'google_maps_url']
+2025-09-23 22:53:23,817 - scraper - DEBUG - Successfully parsed business: Divergent Family Law
+2025-09-23 22:53:23,817 - scraper - DEBUG - === PARSING COMPLETE: 20 businesses parsed ===
+2025-09-23 22:53:23,817 - scraper - INFO - Page 0: Got 20 results (total: 20)
+2025-09-23 22:53:24,323 - scraper - DEBUG - Fetching page 1
+2025-09-23 22:53:24,323 - scraper - DEBUG - Making request to: https://api.scrapingdog.com/google_maps
+2025-09-23 22:53:24,324 - scraper - DEBUG - Request parameters: {
+  "query": "law offices",
+  "page": 1,
+  "location": "San Francisco, CA",
+  "api_key": "***"
+}
+2025-09-23 22:53:24,324 - scraper - DEBUG - Making request attempt 1/3
+2025-09-23 22:53:24,325 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'GET']>
+2025-09-23 22:53:24,326 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-09-23 22:53:24,326 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'GET']>
+2025-09-23 22:53:24,326 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-09-23 22:53:24,326 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'GET']>
+2025-09-23 22:53:24,747 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 400, b'Bad Request', [(b'Date', b'Wed, 24 Sep 2025 05:53:24 GMT'), (b'Content-Type', b'application/json; charset=utf-8'), (b'Content-Length', b'75'), (b'Connection', b'keep-alive'), (b'Server', b'cloudflare'), (b'Nel', b'{"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}'), (b'X-Powered-By', b'Express'), (b'Access-Control-Allow-Origin', b'*'), (b'Access-Control-Allow-Credentials', b'true'), (b'X-Frame-Options', b'sameorigin'), (b'Access-Control-Allow-Headers', b'Origin, X-Requested-With, Content-Type, Accept, multipart/form-data'), (b'Access-Control-Allow-Methods', b'HEAD,GET,POST,DELETE,OPTIONS,PUT'), (b'ETag', b'W/"4b-vIGU7mvSHOZUTLLx8cYOyqJwU3E"'), (b'cf-cache-status', b'DYNAMIC'), (b'Report-To', b'{"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=QQuXF85pePCNttK%2Bpg3cy2SF8z6LukeNvInvjWTdASCpxwiNFDXXHy2iCQO78BUzVMq5T%2FfjoeuiAtr5%2BktmW8Y3D9bgPKQ5O%2FzQPrYB2z4rfQ%3D%3D"}]}'), (b'CF-RAY', b'9840056f3c18eb1e-SJC'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-09-23 22:53:24,748 - httpx - INFO - HTTP Request: GET https://api.scrapingdog.com/google_maps?query=law+offices&page=1&location=San+Francisco%2C+CA&api_key=68d373cbb2c8ad1c3f875812 "HTTP/1.1 400 Bad Request"
+2025-09-23 22:53:24,749 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'GET']>
+2025-09-23 22:53:24,749 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-09-23 22:53:24,750 - httpcore.http11 - DEBUG - response_closed.started
+2025-09-23 22:53:24,750 - httpcore.http11 - DEBUG - response_closed.complete
+2025-09-23 22:53:24,750 - scraper - DEBUG - Response received in 0.43 seconds
+2025-09-23 22:53:24,750 - scraper - DEBUG - Response status: 400
+2025-09-23 22:53:24,750 - scraper - DEBUG - Response headers: {'date': 'Wed, 24 Sep 2025 05:53:24 GMT', 'content-type': 'application/json; charset=utf-8', 'content-length': '75', 'connection': 'keep-alive', 'server': 'cloudflare', 'nel': '{"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}', 'x-powered-by': 'Express', 'access-control-allow-origin': '*', 'access-control-allow-credentials': 'true', 'x-frame-options': 'sameorigin', 'access-control-allow-headers': 'Origin, X-Requested-With, Content-Type, Accept, multipart/form-data', 'access-control-allow-methods': 'HEAD,GET,POST,DELETE,OPTIONS,PUT', 'etag': 'W/"4b-vIGU7mvSHOZUTLLx8cYOyqJwU3E"', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=QQuXF85pePCNttK%2Bpg3cy2SF8z6LukeNvInvjWTdASCpxwiNFDXXHy2iCQO78BUzVMq5T%2FfjoeuiAtr5%2BktmW8Y3D9bgPKQ5O%2FzQPrYB2z4rfQ%3D%3D"}]}', 'cf-ray': '9840056f3c18eb1e-SJC', 'alt-svc': 'h3=":443"; ma=86400'}
+2025-09-23 22:53:24,751 - scraper - ERROR - Request failed with status 400
+2025-09-23 22:53:24,751 - scraper - ERROR - Response text: {"message":"Coordinates are required with page parameter.","success":false}
+2025-09-23 22:53:25,753 - scraper - DEBUG - Making request attempt 2/3
+2025-09-23 22:53:25,755 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'GET']>
+2025-09-23 22:53:25,756 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-09-23 22:53:25,756 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'GET']>
+2025-09-23 22:53:25,757 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-09-23 22:53:25,757 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'GET']>
+2025-09-23 22:53:25,954 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 400, b'Bad Request', [(b'Date', b'Wed, 24 Sep 2025 05:53:25 GMT'), (b'Content-Type', b'application/json; charset=utf-8'), (b'Content-Length', b'75'), (b'Connection', b'keep-alive'), (b'Server', b'cloudflare'), (b'Nel', b'{"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}'), (b'X-Powered-By', b'Express'), (b'Access-Control-Allow-Origin', b'*'), (b'Access-Control-Allow-Credentials', b'true'), (b'X-Frame-Options', b'sameorigin'), (b'Access-Control-Allow-Headers', b'Origin, X-Requested-With, Content-Type, Accept, multipart/form-data'), (b'Access-Control-Allow-Methods', b'HEAD,GET,POST,DELETE,OPTIONS,PUT'), (b'ETag', b'W/"4b-vIGU7mvSHOZUTLLx8cYOyqJwU3E"'), (b'cf-cache-status', b'DYNAMIC'), (b'Report-To', b'{"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=FzCZOE%2B9V3nF6NAFJ3dl4PzFLi9h3cY4G8WMdHI2NtMt1PUwWr%2FndwIOi0S30B66Isa6qkyC3mUWDaqSuHbGOvfN35rTnoYSY6klNt0FpOYErw%3D%3D"}]}'), (b'CF-RAY', b'984005782f98eb1e-SJC'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-09-23 22:53:25,956 - httpx - INFO - HTTP Request: GET https://api.scrapingdog.com/google_maps?query=law+offices&page=1&location=San+Francisco%2C+CA&api_key=68d373cbb2c8ad1c3f875812 "HTTP/1.1 400 Bad Request"
+2025-09-23 22:53:25,956 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'GET']>
+2025-09-23 22:53:25,956 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-09-23 22:53:25,957 - httpcore.http11 - DEBUG - response_closed.started
+2025-09-23 22:53:25,957 - httpcore.http11 - DEBUG - response_closed.complete
+2025-09-23 22:53:25,957 - scraper - DEBUG - Response received in 0.20 seconds
+2025-09-23 22:53:25,957 - scraper - DEBUG - Response status: 400
+2025-09-23 22:53:25,958 - scraper - DEBUG - Response headers: {'date': 'Wed, 24 Sep 2025 05:53:25 GMT', 'content-type': 'application/json; charset=utf-8', 'content-length': '75', 'connection': 'keep-alive', 'server': 'cloudflare', 'nel': '{"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}', 'x-powered-by': 'Express', 'access-control-allow-origin': '*', 'access-control-allow-credentials': 'true', 'x-frame-options': 'sameorigin', 'access-control-allow-headers': 'Origin, X-Requested-With, Content-Type, Accept, multipart/form-data', 'access-control-allow-methods': 'HEAD,GET,POST,DELETE,OPTIONS,PUT', 'etag': 'W/"4b-vIGU7mvSHOZUTLLx8cYOyqJwU3E"', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=FzCZOE%2B9V3nF6NAFJ3dl4PzFLi9h3cY4G8WMdHI2NtMt1PUwWr%2FndwIOi0S30B66Isa6qkyC3mUWDaqSuHbGOvfN35rTnoYSY6klNt0FpOYErw%3D%3D"}]}', 'cf-ray': '984005782f98eb1e-SJC', 'alt-svc': 'h3=":443"; ma=86400'}
+2025-09-23 22:53:25,958 - scraper - ERROR - Request failed with status 400
+2025-09-23 22:53:25,958 - scraper - ERROR - Response text: {"message":"Coordinates are required with page parameter.","success":false}
+2025-09-23 22:53:27,964 - scraper - DEBUG - Making request attempt 3/3
+2025-09-23 22:53:27,964 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'GET']>
+2025-09-23 22:53:27,964 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-09-23 22:53:27,965 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'GET']>
+2025-09-23 22:53:27,965 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-09-23 22:53:27,965 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'GET']>
+2025-09-23 22:53:28,068 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 400, b'Bad Request', [(b'Date', b'Wed, 24 Sep 2025 05:53:28 GMT'), (b'Content-Type', b'application/json; charset=utf-8'), (b'Content-Length', b'75'), (b'Connection', b'keep-alive'), (b'Server', b'cloudflare'), (b'Nel', b'{"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}'), (b'X-Powered-By', b'Express'), (b'Access-Control-Allow-Origin', b'*'), (b'Access-Control-Allow-Credentials', b'true'), (b'X-Frame-Options', b'sameorigin'), (b'Access-Control-Allow-Headers', b'Origin, X-Requested-With, Content-Type, Accept, multipart/form-data'), (b'Access-Control-Allow-Methods', b'HEAD,GET,POST,DELETE,OPTIONS,PUT'), (b'ETag', b'W/"4b-vIGU7mvSHOZUTLLx8cYOyqJwU3E"'), (b'cf-cache-status', b'DYNAMIC'), (b'Report-To', b'{"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=rI1a%2FiBUWIEgWY5tW7g6mHHMOi8OgvzSv%2BS9F4jpL2qsc4n9tYJuXjgSH3OSorppkydG5AwHjMu%2F0SnEZIG4YB2q4S1OYwwo2HjR3CIGHIB2nA%3D%3D"}]}'), (b'CF-RAY', b'98400585f8bfeb1e-SJC'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-09-23 22:53:28,069 - httpx - INFO - HTTP Request: GET https://api.scrapingdog.com/google_maps?query=law+offices&page=1&location=San+Francisco%2C+CA&api_key=68d373cbb2c8ad1c3f875812 "HTTP/1.1 400 Bad Request"
+2025-09-23 22:53:28,069 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'GET']>
+2025-09-23 22:53:28,070 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-09-23 22:53:28,070 - httpcore.http11 - DEBUG - response_closed.started
+2025-09-23 22:53:28,070 - httpcore.http11 - DEBUG - response_closed.complete
+2025-09-23 22:53:28,070 - scraper - DEBUG - Response received in 0.11 seconds
+2025-09-23 22:53:28,070 - scraper - DEBUG - Response status: 400
+2025-09-23 22:53:28,070 - scraper - DEBUG - Response headers: {'date': 'Wed, 24 Sep 2025 05:53:28 GMT', 'content-type': 'application/json; charset=utf-8', 'content-length': '75', 'connection': 'keep-alive', 'server': 'cloudflare', 'nel': '{"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}', 'x-powered-by': 'Express', 'access-control-allow-origin': '*', 'access-control-allow-credentials': 'true', 'x-frame-options': 'sameorigin', 'access-control-allow-headers': 'Origin, X-Requested-With, Content-Type, Accept, multipart/form-data', 'access-control-allow-methods': 'HEAD,GET,POST,DELETE,OPTIONS,PUT', 'etag': 'W/"4b-vIGU7mvSHOZUTLLx8cYOyqJwU3E"', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=rI1a%2FiBUWIEgWY5tW7g6mHHMOi8OgvzSv%2BS9F4jpL2qsc4n9tYJuXjgSH3OSorppkydG5AwHjMu%2F0SnEZIG4YB2q4S1OYwwo2HjR3CIGHIB2nA%3D%3D"}]}', 'cf-ray': '98400585f8bfeb1e-SJC', 'alt-svc': 'h3=":443"; ma=86400'}
+2025-09-23 22:53:28,070 - scraper - ERROR - Request failed with status 400
+2025-09-23 22:53:28,070 - scraper - ERROR - Response text: {"message":"Coordinates are required with page parameter.","success":false}
+2025-09-23 22:53:28,070 - scraper - ERROR - Failed to get data for page 1
+2025-09-23 22:53:28,071 - scraper - INFO - Search completed: 20 results for 'law offices'
+✅ Found 20 businesses
+📧 Enriching with email addresses...
+Enriching businesses  [------------------------------------]    0%2025-09-23 22:53:28,097 - enricher - INFO - Enriching business: Gruber Law Offices, LLC
+2025-09-23 22:53:28,097 - enricher - DEBUG - Trying website scraping for Gruber Law Offices, LLC
+2025-09-23 22:53:28,097 - enricher - DEBUG - Using traditional scraping for https://www.gruber-law.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp-listing-milwaukee
+2025-09-23 22:53:28,098 - enricher - DEBUG - Error scraping page https://www.gruber-law.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp-listing-milwaukee: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-09-23 22:53:28,098 - enricher - DEBUG - Checking contact page: https://www.gruber-law.com/contact
+2025-09-23 22:53:28,098 - enricher - DEBUG - Error scraping page https://www.gruber-law.com/contact: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-09-23 22:53:29,103 - enricher - DEBUG - Checking contact page: https://www.gruber-law.com/contact-us
+2025-09-23 22:53:29,104 - enricher - DEBUG - Error scraping page https://www.gruber-law.com/contact-us: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-09-23 22:53:30,105 - enricher - DEBUG - Checking contact page: https://www.gruber-law.com/contact.html
+2025-09-23 22:53:30,106 - enricher - DEBUG - Error scraping page https://www.gruber-law.com/contact.html: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-09-23 22:53:31,112 - enricher - DEBUG - Trying pattern generation for Gruber Law Offices, LLC
+2025-09-23 22:53:31,114 - enricher - INFO - Pattern generation created 9 emails for Gruber Law Offices, LLC
+2025-09-23 22:53:31,114 - enricher - INFO - Successfully enriched Gruber Law Offices, LLC with email: sales@gruber-law.com
+2025-09-23 22:53:31,114 - enricher - DEBUG - Enrichment log: {"business_name": "Gruber Law Offices, LLC", "website": "https://www.gruber-law.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp-listing-milwaukee", "methods_tried": ["website_scraping", "pattern_generation"], "emails_found_count": 9, "success": true, "timestamp": "2025-09-23T22:53:31.114887"}
+Enriching businesses  [#-----------------------------------]    5%  00:00:572025-09-23 22:53:31,119 - enricher - INFO - Enriching business: Bayer Law Offices
+2025-09-23 22:53:31,120 - enricher - DEBUG - Trying website scraping for Bayer Law Offices
+2025-09-23 22:53:31,120 - enricher - DEBUG - Using traditional scraping for https://www.bayerlawoffices.com/?utm_source=gmb&utm_medium=organic&utm_campaign=milwaukee
+2025-09-23 22:53:31,120 - enricher - DEBUG - Error scraping page https://www.bayerlawoffices.com/?utm_source=gmb&utm_medium=organic&utm_campaign=milwaukee: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-09-23 22:53:31,120 - enricher - DEBUG - Checking contact page: https://www.bayerlawoffices.com/contact
+2025-09-23 22:53:31,120 - enricher - DEBUG - Error scraping page https://www.bayerlawoffices.com/contact: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-09-23 22:53:32,126 - enricher - DEBUG - Checking contact page: https://www.bayerlawoffices.com/contact-us
+2025-09-23 22:53:32,126 - enricher - DEBUG - Error scraping page https://www.bayerlawoffices.com/contact-us: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-09-23 22:53:33,132 - enricher - DEBUG - Checking contact page: https://www.bayerlawoffices.com/contact.html
+2025-09-23 22:53:33,132 - enricher - DEBUG - Error scraping page https://www.bayerlawoffices.com/contact.html: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-09-23 22:53:34,133 - enricher - DEBUG - Trying pattern generation for Bayer Law Offices
+2025-09-23 22:53:34,134 - enricher - INFO - Pattern generation created 9 emails for Bayer Law Offices
+2025-09-23 22:53:34,134 - enricher - INFO - Successfully enriched Bayer Law Offices with email: office@bayerlawoffices.com
+2025-09-23 22:53:34,135 - enricher - DEBUG - Enrichment log: {"business_name": "Bayer Law Offices", "website": "https://www.bayerlawoffices.com/?utm_source=gmb&utm_medium=organic&utm_campaign=milwaukee", "methods_tried": ["website_scraping", "pattern_generation"], "emails_found_count": 9, "success": true, "timestamp": "2025-09-23T22:53:34.135183"}
+Enriching businesses  [###---------------------------------]   10%  00:00:542025-09-23 22:53:34,141 - enricher - INFO - Enriching business: Ohiku Law Office
+2025-09-23 22:53:34,142 - enricher - DEBUG - Trying website scraping for Ohiku Law Office
+2025-09-23 22:53:34,142 - enricher - DEBUG - Using traditional scraping for https://www.ohiku.com/
+2025-09-23 22:53:34,142 - enricher - DEBUG - Error scraping page https://www.ohiku.com/: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-09-23 22:53:34,142 - enricher - DEBUG - Checking contact page: https://www.ohiku.com/contact
+2025-09-23 22:53:34,142 - enricher - DEBUG - Error scraping page https://www.ohiku.com/contact: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-09-23 22:53:35,148 - enricher - DEBUG - Checking contact page: https://www.ohiku.com/contact-us
+2025-09-23 22:53:35,148 - enricher - DEBUG - Error scraping page https://www.ohiku.com/contact-us: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-09-23 22:53:36,154 - enricher - DEBUG - Checking contact page: https://www.ohiku.com/contact.html
+2025-09-23 22:53:36,154 - enricher - DEBUG - Error scraping page https://www.ohiku.com/contact.html: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-09-23 22:53:37,158 - enricher - DEBUG - Trying pattern generation for Ohiku Law Office
+2025-09-23 22:53:37,159 - enricher - INFO - Pattern generation created 9 emails for Ohiku Law Office
+2025-09-23 22:53:37,160 - enricher - INFO - Successfully enriched Ohiku Law Office with email: admin@ohiku.com
+2025-09-23 22:53:37,160 - enricher - DEBUG - Enrichment log: {"business_name": "Ohiku Law Office", "website": "https://www.ohiku.com/", "methods_tried": ["website_scraping", "pattern_generation"], "emails_found_count": 9, "success": true, "timestamp": "2025-09-23T22:53:37.160196"}
+Enriching businesses  [#####-------------------------------]   15%  00:00:512025-09-23 22:53:37,164 - enricher - INFO - Enriching business: PKSD
+2025-09-23 22:53:37,164 - enricher - DEBUG - Trying website scraping for PKSD
+2025-09-23 22:53:37,164 - enricher - DEBUG - Using traditional scraping for https://www.pksd.com/milwaukee-injury-lawyer.html
+2025-09-23 22:53:37,164 - enricher - DEBUG - Error scraping page https://www.pksd.com/milwaukee-injury-lawyer.html: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-09-23 22:53:37,165 - enricher - DEBUG - Checking contact page: https://www.pksd.com/contact
+2025-09-23 22:53:37,165 - enricher - DEBUG - Error scraping page https://www.pksd.com/contact: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-09-23 22:53:38,170 - enricher - DEBUG - Checking contact page: https://www.pksd.com/contact-us
+2025-09-23 22:53:38,171 - enricher - DEBUG - Error scraping page https://www.pksd.com/contact-us: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-09-23 22:53:39,175 - enricher - DEBUG - Checking contact page: https://www.pksd.com/contact.html
+2025-09-23 22:53:39,175 - enricher - DEBUG - Error scraping page https://www.pksd.com/contact.html: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-09-23 22:53:40,179 - enricher - DEBUG - Trying pattern generation for PKSD
+2025-09-23 22:53:40,180 - enricher - INFO - Pattern generation created 9 emails for PKSD
+2025-09-23 22:53:40,181 - enricher - INFO - Successfully enriched PKSD with email: hello@pksd.com
+2025-09-23 22:53:40,181 - enricher - DEBUG - Enrichment log: {"business_name": "PKSD", "website": "https://www.pksd.com/milwaukee-injury-lawyer.html", "methods_tried": ["website_scraping", "pattern_generation"], "emails_found_count": 9, "success": true, "timestamp": "2025-09-23T22:53:40.181765"}
+Enriching businesses  [#######-----------------------------]   20%  00:00:482025-09-23 22:53:40,186 - enricher - INFO - Enriching business: Warshafsky Law Firm
+2025-09-23 22:53:40,186 - enricher - DEBUG - Trying website scraping for Warshafsky Law Firm
+2025-09-23 22:53:40,186 - enricher - DEBUG - Using traditional scraping for https://www.warshafsky.com/?=GBPMilwaukee
+2025-09-23 22:53:40,187 - enricher - DEBUG - Error scraping page https://www.warshafsky.com/?=GBPMilwaukee: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-09-23 22:53:40,187 - enricher - DEBUG - Checking contact page: https://www.warshafsky.com/contact
+2025-09-23 22:53:40,187 - enricher - DEBUG - Error scraping page https://www.warshafsky.com/contact: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-09-23 22:53:41,192 - enricher - DEBUG - Checking contact page: https://www.warshafsky.com/contact-us
+2025-09-23 22:53:41,193 - enricher - DEBUG - Error scraping page https://www.warshafsky.com/contact-us: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-09-23 22:53:42,198 - enricher - DEBUG - Checking contact page: https://www.warshafsky.com/contact.html
+2025-09-23 22:53:42,199 - enricher - DEBUG - Error scraping page https://www.warshafsky.com/contact.html: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-09-23 22:53:43,202 - enricher - DEBUG - Trying pattern generation for Warshafsky Law Firm
+2025-09-23 22:53:43,202 - enricher - INFO - Pattern generation created 9 emails for Warshafsky Law Firm
+2025-09-23 22:53:43,202 - enricher - INFO - Successfully enriched Warshafsky Law Firm with email: contact@warshafsky.com
+2025-09-23 22:53:43,203 - enricher - DEBUG - Enrichment log: {"business_name": "Warshafsky Law Firm", "website": "https://www.warshafsky.com/?=GBPMilwaukee", "methods_tried": ["website_scraping", "pattern_generation"], "emails_found_count": 9, "success": true, "timestamp": "2025-09-23T22:53:43.203033"}
+Enriching businesses  [#########---------------------------]   25%  00:00:452025-09-23 22:53:43,206 - enricher - INFO - Enriching business: Nicolet Law Accident & Injury Lawyers
+2025-09-23 22:53:43,206 - enricher - DEBUG - Trying website scraping for Nicolet Law Accident & Injury Lawyers
+2025-09-23 22:53:43,206 - enricher - DEBUG - Using traditional scraping for https://nicoletlaw.com/milwaukee-personal-injury-lawyers/
+2025-09-23 22:53:43,206 - enricher - DEBUG - Error scraping page https://nicoletlaw.com/milwaukee-personal-injury-lawyers/: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-09-23 22:53:43,206 - enricher - DEBUG - Checking contact page: https://nicoletlaw.com/contact
+2025-09-23 22:53:43,206 - enricher - DEBUG - Error scraping page https://nicoletlaw.com/contact: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-09-23 22:53:44,212 - enricher - DEBUG - Checking contact page: https://nicoletlaw.com/contact-us
+2025-09-23 22:53:44,212 - enricher - DEBUG - Error scraping page https://nicoletlaw.com/contact-us: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-09-23 22:53:45,217 - enricher - DEBUG - Checking contact page: https://nicoletlaw.com/contact.html
+2025-09-23 22:53:45,217 - enricher - DEBUG - Error scraping page https://nicoletlaw.com/contact.html: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-09-23 22:53:46,223 - enricher - DEBUG - Trying pattern generation for Nicolet Law Accident & Injury Lawyers
+2025-09-23 22:53:46,223 - enricher - INFO - Pattern generation created 9 emails for Nicolet Law Accident & Injury Lawyers
+2025-09-23 22:53:46,224 - enricher - INFO - Successfully enriched Nicolet Law Accident & Injury Lawyers with email: hello@nicoletlaw.com
+2025-09-23 22:53:46,224 - enricher - DEBUG - Enrichment log: {"business_name": "Nicolet Law Accident & Injury Lawyers", "website": "https://nicoletlaw.com/milwaukee-personal-injury-lawyers/", "methods_tried": ["website_scraping", "pattern_generation"], "emails_found_count": 9, "success": true, "timestamp": "2025-09-23T22:53:46.224853"}
+Enriching businesses  [##########--------------------------]   30%  00:00:422025-09-23 22:53:46,230 - enricher - INFO - Enriching business: Sterling Lawyers, LLC
+2025-09-23 22:53:46,230 - enricher - DEBUG - Trying website scraping for Sterling Lawyers, LLC
+2025-09-23 22:53:46,230 - enricher - DEBUG - Using traditional scraping for https://www.sterlinglawyers.com/wisconsin/locations/milwaukee/?utm_source=google&utm_medium=organic&utm_campaign=gmb
+2025-09-23 22:53:46,230 - enricher - DEBUG - Error scraping page https://www.sterlinglawyers.com/wisconsin/locations/milwaukee/?utm_source=google&utm_medium=organic&utm_campaign=gmb: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-09-23 22:53:46,230 - enricher - DEBUG - Checking contact page: https://www.sterlinglawyers.com/contact
+2025-09-23 22:53:46,230 - enricher - DEBUG - Error scraping page https://www.sterlinglawyers.com/contact: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-09-23 22:53:47,236 - enricher - DEBUG - Checking contact page: https://www.sterlinglawyers.com/contact-us
+2025-09-23 22:53:47,236 - enricher - DEBUG - Error scraping page https://www.sterlinglawyers.com/contact-us: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-09-23 22:53:48,241 - enricher - DEBUG - Checking contact page: https://www.sterlinglawyers.com/contact.html
+2025-09-23 22:53:48,242 - enricher - DEBUG - Error scraping page https://www.sterlinglawyers.com/contact.html: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-09-23 22:53:49,248 - enricher - DEBUG - Trying pattern generation for Sterling Lawyers, LLC
+2025-09-23 22:53:49,248 - enricher - INFO - Pattern generation created 9 emails for Sterling Lawyers, LLC
+2025-09-23 22:53:49,249 - enricher - INFO - Successfully enriched Sterling Lawyers, LLC with email: admin@sterlinglawyers.com
+2025-09-23 22:53:49,250 - enricher - DEBUG - Enrichment log: {"business_name": "Sterling Lawyers, LLC", "website": "https://www.sterlinglawyers.com/wisconsin/locations/milwaukee/?utm_source=google&utm_medium=organic&utm_campaign=gmb", "methods_tried": ["website_scraping", "pattern_generation"], "emails_found_count": 9, "success": true, "timestamp": "2025-09-23T22:53:49.249969"}
+Enriching businesses  [############------------------------]   35%  00:00:392025-09-23 22:53:49,256 - enricher - INFO - Enriching business: Sperling Law Offices LLC
+2025-09-23 22:53:49,256 - enricher - DEBUG - Trying website scraping for Sperling Law Offices LLC
+2025-09-23 22:53:49,256 - enricher - DEBUG - Using traditional scraping for http://www.milwaukeelawfirm.com/
+2025-09-23 22:53:49,256 - enricher - DEBUG - Error scraping page http://www.milwaukeelawfirm.com/: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-09-23 22:53:49,256 - enricher - DEBUG - Checking contact page: http://www.milwaukeelawfirm.com/contact
+2025-09-23 22:53:49,256 - enricher - DEBUG - Error scraping page http://www.milwaukeelawfirm.com/contact: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-09-23 22:53:50,262 - enricher - DEBUG - Checking contact page: http://www.milwaukeelawfirm.com/contact-us
+2025-09-23 22:53:50,262 - enricher - DEBUG - Error scraping page http://www.milwaukeelawfirm.com/contact-us: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-09-23 22:53:51,268 - enricher - DEBUG - Checking contact page: http://www.milwaukeelawfirm.com/contact.html
+2025-09-23 22:53:51,268 - enricher - DEBUG - Error scraping page http://www.milwaukeelawfirm.com/contact.html: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-09-23 22:53:52,274 - enricher - DEBUG - Trying pattern generation for Sperling Law Offices LLC
+2025-09-23 22:53:52,274 - enricher - INFO - Pattern generation created 9 emails for Sperling Law Offices LLC
+2025-09-23 22:53:52,275 - enricher - INFO - Successfully enriched Sperling Law Offices LLC with email: info@milwaukeelawfirm.com
+2025-09-23 22:53:52,276 - enricher - DEBUG - Enrichment log: {"business_name": "Sperling Law Offices LLC", "website": "http://www.milwaukeelawfirm.com/", "methods_tried": ["website_scraping", "pattern_generation"], "emails_found_count": 9, "success": true, "timestamp": "2025-09-23T22:53:52.275917"}
+Enriching businesses  [##############----------------------]   40%  00:00:362025-09-23 22:53:52,280 - enricher - INFO - Enriching business: Groth Law Accident Injury Attorneys
+2025-09-23 22:53:52,281 - enricher - DEBUG - Trying website scraping for Groth Law Accident Injury Attorneys
+2025-09-23 22:53:52,281 - enricher - DEBUG - Using traditional scraping for https://grothlawfirm.com/milwaukee-personal-injury-lawyer/?utm_source=GMBlisting&utm_medium=organic
+2025-09-23 22:53:52,281 - enricher - DEBUG - Error scraping page https://grothlawfirm.com/milwaukee-personal-injury-lawyer/?utm_source=GMBlisting&utm_medium=organic: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-09-23 22:53:52,281 - enricher - DEBUG - Checking contact page: https://grothlawfirm.com/contact
+2025-09-23 22:53:52,281 - enricher - DEBUG - Error scraping page https://grothlawfirm.com/contact: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-09-23 22:53:53,287 - enricher - DEBUG - Checking contact page: https://grothlawfirm.com/contact-us
+2025-09-23 22:53:53,287 - enricher - DEBUG - Error scraping page https://grothlawfirm.com/contact-us: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-09-23 22:53:54,290 - enricher - DEBUG - Checking contact page: https://grothlawfirm.com/contact.html
+2025-09-23 22:53:54,291 - enricher - DEBUG - Error scraping page https://grothlawfirm.com/contact.html: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-09-23 22:53:55,292 - enricher - DEBUG - Trying pattern generation for Groth Law Accident Injury Attorneys
+2025-09-23 22:53:55,293 - enricher - INFO - Pattern generation created 9 emails for Groth Law Accident Injury Attorneys
+2025-09-23 22:53:55,293 - enricher - INFO - Successfully enriched Groth Law Accident Injury Attorneys with email: groth@grothlawfirm.com
+2025-09-23 22:53:55,294 - enricher - DEBUG - Enrichment log: {"business_name": "Groth Law Accident Injury Attorneys", "website": "https://grothlawfirm.com/milwaukee-personal-injury-lawyer/?utm_source=GMBlisting&utm_medium=organic", "methods_tried": ["website_scraping", "pattern_generation"], "emails_found_count": 9, "success": true, "timestamp": "2025-09-23T22:53:55.293932"}
+Enriching businesses  [################--------------------]   45%  00:00:332025-09-23 22:53:55,298 - enricher - INFO - Enriching business: Lindner Law LLC
+2025-09-23 22:53:55,298 - enricher - DEBUG - Trying website scraping for Lindner Law LLC
+2025-09-23 22:53:55,298 - enricher - DEBUG - Using traditional scraping for https://www.lindnerlawllc.com/milwaukee-personal-injury-office/?utm_campaign=gmb
+2025-09-23 22:53:55,298 - enricher - DEBUG - Error scraping page https://www.lindnerlawllc.com/milwaukee-personal-injury-office/?utm_campaign=gmb: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-09-23 22:53:55,298 - enricher - DEBUG - Checking contact page: https://www.lindnerlawllc.com/contact
+2025-09-23 22:53:55,298 - enricher - DEBUG - Error scraping page https://www.lindnerlawllc.com/contact: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-09-23 22:53:56,304 - enricher - DEBUG - Checking contact page: https://www.lindnerlawllc.com/contact-us
+2025-09-23 22:53:56,304 - enricher - DEBUG - Error scraping page https://www.lindnerlawllc.com/contact-us: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-09-23 22:53:57,308 - enricher - DEBUG - Checking contact page: https://www.lindnerlawllc.com/contact.html
+2025-09-23 22:53:57,309 - enricher - DEBUG - Error scraping page https://www.lindnerlawllc.com/contact.html: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-09-23 22:53:58,314 - enricher - DEBUG - Trying pattern generation for Lindner Law LLC
+2025-09-23 22:53:58,315 - enricher - INFO - Pattern generation created 9 emails for Lindner Law LLC
+2025-09-23 22:53:58,316 - enricher - INFO - Successfully enriched Lindner Law LLC with email: contact@lindnerlawllc.com
+2025-09-23 22:53:58,316 - enricher - DEBUG - Enrichment log: {"business_name": "Lindner Law LLC", "website": "https://www.lindnerlawllc.com/milwaukee-personal-injury-office/?utm_campaign=gmb", "methods_tried": ["website_scraping", "pattern_generation"], "emails_found_count": 9, "success": true, "timestamp": "2025-09-23T22:53:58.316664"}
+Enriching businesses  [##################------------------]   50%  00:00:302025-09-23 22:53:58,321 - enricher - INFO - Enriching business: Hupy and Abraham
+2025-09-23 22:53:58,321 - enricher - DEBUG - Trying website scraping for Hupy and Abraham
+2025-09-23 22:53:58,322 - enricher - DEBUG - Using traditional scraping for http://www.hupy.com/offices/milwaukee-personal-injury-attorneys.cfm
+2025-09-23 22:53:58,322 - enricher - DEBUG - Error scraping page http://www.hupy.com/offices/milwaukee-personal-injury-attorneys.cfm: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-09-23 22:53:58,322 - enricher - DEBUG - Checking contact page: http://www.hupy.com/contact
+2025-09-23 22:53:58,322 - enricher - DEBUG - Error scraping page http://www.hupy.com/contact: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-09-23 22:53:59,325 - enricher - DEBUG - Checking contact page: http://www.hupy.com/contact-us
+2025-09-23 22:53:59,326 - enricher - DEBUG - Error scraping page http://www.hupy.com/contact-us: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-09-23 22:54:00,328 - enricher - DEBUG - Checking contact page: http://www.hupy.com/contact.html
+2025-09-23 22:54:00,328 - enricher - DEBUG - Error scraping page http://www.hupy.com/contact.html: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-09-23 22:54:01,333 - enricher - DEBUG - Trying pattern generation for Hupy and Abraham
+2025-09-23 22:54:01,334 - enricher - INFO - Pattern generation created 9 emails for Hupy and Abraham
+2025-09-23 22:54:01,334 - enricher - INFO - Successfully enriched Hupy and Abraham with email: admin@hupy.com
+2025-09-23 22:54:01,335 - enricher - DEBUG - Enrichment log: {"business_name": "Hupy and Abraham", "website": "http://www.hupy.com/offices/milwaukee-personal-injury-attorneys.cfm", "methods_tried": ["website_scraping", "pattern_generation"], "emails_found_count": 9, "success": true, "timestamp": "2025-09-23T22:54:01.335261"}
+Enriching businesses  [###################-----------------]   55%  00:00:272025-09-23 22:54:01,340 - enricher - INFO - Enriching business: Van Severen Law Office, S.C.
+2025-09-23 22:54:01,340 - enricher - DEBUG - Trying website scraping for Van Severen Law Office, S.C.
+2025-09-23 22:54:01,340 - enricher - DEBUG - Using traditional scraping for https://milwaukee-criminal-lawyer.com/
+2025-09-23 22:54:01,341 - enricher - DEBUG - Error scraping page https://milwaukee-criminal-lawyer.com/: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-09-23 22:54:01,341 - enricher - DEBUG - Checking contact page: https://milwaukee-criminal-lawyer.com/contact
+2025-09-23 22:54:01,341 - enricher - DEBUG - Error scraping page https://milwaukee-criminal-lawyer.com/contact: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-09-23 22:54:02,346 - enricher - DEBUG - Checking contact page: https://milwaukee-criminal-lawyer.com/contact-us
+2025-09-23 22:54:02,347 - enricher - DEBUG - Error scraping page https://milwaukee-criminal-lawyer.com/contact-us: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-09-23 22:54:03,351 - enricher - DEBUG - Checking contact page: https://milwaukee-criminal-lawyer.com/contact.html
+2025-09-23 22:54:03,352 - enricher - DEBUG - Error scraping page https://milwaukee-criminal-lawyer.com/contact.html: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-09-23 22:54:04,357 - enricher - DEBUG - Trying pattern generation for Van Severen Law Office, S.C.
+2025-09-23 22:54:04,358 - enricher - INFO - Pattern generation created 9 emails for Van Severen Law Office, S.C.
+2025-09-23 22:54:04,359 - enricher - INFO - Successfully enriched Van Severen Law Office, S.C. with email: info@milwaukee-criminal-lawyer.com
+2025-09-23 22:54:04,359 - enricher - DEBUG - Enrichment log: {"business_name": "Van Severen Law Office, S.C.", "website": "https://milwaukee-criminal-lawyer.com/", "methods_tried": ["website_scraping", "pattern_generation"], "emails_found_count": 9, "success": true, "timestamp": "2025-09-23T22:54:04.359757"}
+Enriching businesses  [#####################---------------]   60%  00:00:242025-09-23 22:54:04,365 - enricher - INFO - Enriching business: Casey Law Offices, S.C.
+2025-09-23 22:54:04,365 - enricher - DEBUG - Trying website scraping for Casey Law Offices, S.C.
+2025-09-23 22:54:04,365 - enricher - DEBUG - Using traditional scraping for https://www.casey-injurylaw.com/
+2025-09-23 22:54:04,365 - enricher - DEBUG - Error scraping page https://www.casey-injurylaw.com/: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-09-23 22:54:04,366 - enricher - DEBUG - Checking contact page: https://www.casey-injurylaw.com/contact
+2025-09-23 22:54:04,366 - enricher - DEBUG - Error scraping page https://www.casey-injurylaw.com/contact: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-09-23 22:54:05,369 - enricher - DEBUG - Checking contact page: https://www.casey-injurylaw.com/contact-us
+2025-09-23 22:54:05,369 - enricher - DEBUG - Error scraping page https://www.casey-injurylaw.com/contact-us: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-09-23 22:54:06,375 - enricher - DEBUG - Checking contact page: https://www.casey-injurylaw.com/contact.html
+2025-09-23 22:54:06,375 - enricher - DEBUG - Error scraping page https://www.casey-injurylaw.com/contact.html: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-09-23 22:54:07,377 - enricher - DEBUG - Trying pattern generation for Casey Law Offices, S.C.
+2025-09-23 22:54:07,377 - enricher - INFO - Pattern generation created 9 emails for Casey Law Offices, S.C.
+2025-09-23 22:54:07,378 - enricher - INFO - Successfully enriched Casey Law Offices, S.C. with email: info@casey-injurylaw.com
+2025-09-23 22:54:07,378 - enricher - DEBUG - Enrichment log: {"business_name": "Casey Law Offices, S.C.", "website": "https://www.casey-injurylaw.com/", "methods_tried": ["website_scraping", "pattern_generation"], "emails_found_count": 9, "success": true, "timestamp": "2025-09-23T22:54:07.378306"}
+Enriching businesses  [#######################-------------]   65%  00:00:212025-09-23 22:54:07,381 - enricher - INFO - Enriching business: Miller & Miller Law, LLC
+2025-09-23 22:54:07,381 - enricher - DEBUG - Trying website scraping for Miller & Miller Law, LLC
+2025-09-23 22:54:07,381 - enricher - DEBUG - Using traditional scraping for https://www.millermillerlaw.com/?npcmp=dir:local:1081930:53203
+2025-09-23 22:54:07,381 - enricher - DEBUG - Error scraping page https://www.millermillerlaw.com/?npcmp=dir:local:1081930:53203: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-09-23 22:54:07,381 - enricher - DEBUG - Checking contact page: https://www.millermillerlaw.com/contact
+2025-09-23 22:54:07,381 - enricher - DEBUG - Error scraping page https://www.millermillerlaw.com/contact: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-09-23 22:54:08,387 - enricher - DEBUG - Checking contact page: https://www.millermillerlaw.com/contact-us
+2025-09-23 22:54:08,387 - enricher - DEBUG - Error scraping page https://www.millermillerlaw.com/contact-us: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-09-23 22:54:09,393 - enricher - DEBUG - Checking contact page: https://www.millermillerlaw.com/contact.html
+2025-09-23 22:54:09,393 - enricher - DEBUG - Error scraping page https://www.millermillerlaw.com/contact.html: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-09-23 22:54:10,398 - enricher - DEBUG - Trying pattern generation for Miller & Miller Law, LLC
+2025-09-23 22:54:10,399 - enricher - INFO - Pattern generation created 9 emails for Miller & Miller Law, LLC
+2025-09-23 22:54:10,400 - enricher - INFO - Successfully enriched Miller & Miller Law, LLC with email: miller@millermillerlaw.com
+2025-09-23 22:54:10,400 - enricher - DEBUG - Enrichment log: {"business_name": "Miller & Miller Law, LLC", "website": "https://www.millermillerlaw.com/?npcmp=dir:local:1081930:53203", "methods_tried": ["website_scraping", "pattern_generation"], "emails_found_count": 9, "success": true, "timestamp": "2025-09-23T22:54:10.400624"}
+Enriching businesses  [#########################-----------]   70%  00:00:182025-09-23 22:54:10,405 - enricher - INFO - Enriching business: Phillips, Cymerman & Trager, S.C.
+2025-09-23 22:54:10,405 - enricher - DEBUG - Trying website scraping for Phillips, Cymerman & Trager, S.C.
+2025-09-23 22:54:10,406 - enricher - DEBUG - Using traditional scraping for http://www.themilwaukeelawyer.com/
+2025-09-23 22:54:10,406 - enricher - DEBUG - Error scraping page http://www.themilwaukeelawyer.com/: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-09-23 22:54:10,406 - enricher - DEBUG - Checking contact page: http://www.themilwaukeelawyer.com/contact
+2025-09-23 22:54:10,406 - enricher - DEBUG - Error scraping page http://www.themilwaukeelawyer.com/contact: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-09-23 22:54:11,411 - enricher - DEBUG - Checking contact page: http://www.themilwaukeelawyer.com/contact-us
+2025-09-23 22:54:11,412 - enricher - DEBUG - Error scraping page http://www.themilwaukeelawyer.com/contact-us: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-09-23 22:54:12,417 - enricher - DEBUG - Checking contact page: http://www.themilwaukeelawyer.com/contact.html
+2025-09-23 22:54:12,418 - enricher - DEBUG - Error scraping page http://www.themilwaukeelawyer.com/contact.html: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-09-23 22:54:13,423 - enricher - DEBUG - Trying pattern generation for Phillips, Cymerman & Trager, S.C.
+2025-09-23 22:54:13,424 - enricher - INFO - Pattern generation created 9 emails for Phillips, Cymerman & Trager, S.C.
+2025-09-23 22:54:13,425 - enricher - INFO - Successfully enriched Phillips, Cymerman & Trager, S.C. with email: contact@themilwaukeelawyer.com
+2025-09-23 22:54:13,425 - enricher - DEBUG - Enrichment log: {"business_name": "Phillips, Cymerman & Trager, S.C.", "website": "http://www.themilwaukeelawyer.com/", "methods_tried": ["website_scraping", "pattern_generation"], "emails_found_count": 9, "success": true, "timestamp": "2025-09-23T22:54:13.425400"}
+Enriching businesses  [###########################---------]   75%  00:00:152025-09-23 22:54:13,429 - enricher - INFO - Enriching business: The Law Office of Michael Hayes, LLC
+2025-09-23 22:54:13,429 - enricher - DEBUG - Trying website scraping for The Law Office of Michael Hayes, LLC
+2025-09-23 22:54:13,429 - enricher - DEBUG - Using traditional scraping for https://michaelhayeslaw.com/?utm_source=city&utm_medium=organic&utm_id=GBP
+2025-09-23 22:54:13,429 - enricher - DEBUG - Error scraping page https://michaelhayeslaw.com/?utm_source=city&utm_medium=organic&utm_id=GBP: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-09-23 22:54:13,430 - enricher - DEBUG - Checking contact page: https://michaelhayeslaw.com/contact
+2025-09-23 22:54:13,430 - enricher - DEBUG - Error scraping page https://michaelhayeslaw.com/contact: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-09-23 22:54:14,434 - enricher - DEBUG - Checking contact page: https://michaelhayeslaw.com/contact-us
+2025-09-23 22:54:14,434 - enricher - DEBUG - Error scraping page https://michaelhayeslaw.com/contact-us: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-09-23 22:54:15,440 - enricher - DEBUG - Checking contact page: https://michaelhayeslaw.com/contact.html
+2025-09-23 22:54:15,440 - enricher - DEBUG - Error scraping page https://michaelhayeslaw.com/contact.html: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-09-23 22:54:16,445 - enricher - DEBUG - Trying pattern generation for The Law Office of Michael Hayes, LLC
+2025-09-23 22:54:16,446 - enricher - INFO - Pattern generation created 9 emails for The Law Office of Michael Hayes, LLC
+2025-09-23 22:54:16,447 - enricher - INFO - Successfully enriched The Law Office of Michael Hayes, LLC with email: contact@michaelhayeslaw.com
+2025-09-23 22:54:16,447 - enricher - DEBUG - Enrichment log: {"business_name": "The Law Office of Michael Hayes, LLC", "website": "https://michaelhayeslaw.com/?utm_source=city&utm_medium=organic&utm_id=GBP", "methods_tried": ["website_scraping", "pattern_generation"], "emails_found_count": 9, "success": true, "timestamp": "2025-09-23T22:54:16.447793"}
+Enriching businesses  [############################--------]   80%  00:00:122025-09-23 22:54:16,453 - enricher - INFO - Enriching business: Morgan & Morgan
+2025-09-23 22:54:16,453 - enricher - DEBUG - Trying website scraping for Morgan & Morgan
+2025-09-23 22:54:16,453 - enricher - DEBUG - Using traditional scraping for https://www.forthepeople.com/office-locations/wisconsin/milwaukee/?utm_source=GMB&utm_medium=local&utm_campaign=MilwaukeeWIGMB
+2025-09-23 22:54:16,453 - enricher - DEBUG - Error scraping page https://www.forthepeople.com/office-locations/wisconsin/milwaukee/?utm_source=GMB&utm_medium=local&utm_campaign=MilwaukeeWIGMB: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-09-23 22:54:16,453 - enricher - DEBUG - Checking contact page: https://www.forthepeople.com/contact
+2025-09-23 22:54:16,453 - enricher - DEBUG - Error scraping page https://www.forthepeople.com/contact: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-09-23 22:54:17,459 - enricher - DEBUG - Checking contact page: https://www.forthepeople.com/contact-us
+2025-09-23 22:54:17,459 - enricher - DEBUG - Error scraping page https://www.forthepeople.com/contact-us: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-09-23 22:54:18,465 - enricher - DEBUG - Checking contact page: https://www.forthepeople.com/contact.html
+2025-09-23 22:54:18,465 - enricher - DEBUG - Error scraping page https://www.forthepeople.com/contact.html: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-09-23 22:54:19,471 - enricher - DEBUG - Trying pattern generation for Morgan & Morgan
+2025-09-23 22:54:19,471 - enricher - INFO - Pattern generation created 9 emails for Morgan & Morgan
+2025-09-23 22:54:19,472 - enricher - INFO - Successfully enriched Morgan & Morgan with email: office@forthepeople.com
+2025-09-23 22:54:19,472 - enricher - DEBUG - Enrichment log: {"business_name": "Morgan & Morgan", "website": "https://www.forthepeople.com/office-locations/wisconsin/milwaukee/?utm_source=GMB&utm_medium=local&utm_campaign=MilwaukeeWIGMB", "methods_tried": ["website_scraping", "pattern_generation"], "emails_found_count": 9, "success": true, "timestamp": "2025-09-23T22:54:19.472818"}
+Enriching businesses  [##############################------]   85%  00:00:092025-09-23 22:54:19,477 - enricher - INFO - Enriching business: Law Offices of Christopher J. Cherella
+2025-09-23 22:54:19,477 - enricher - DEBUG - Trying website scraping for Law Offices of Christopher J. Cherella
+2025-09-23 22:54:19,477 - enricher - DEBUG - Using traditional scraping for https://www.wicriminaldefense.com/?utm_source=GMB&utm_medium=organic&utm_campaign=Milwaukee
+2025-09-23 22:54:19,477 - enricher - DEBUG - Error scraping page https://www.wicriminaldefense.com/?utm_source=GMB&utm_medium=organic&utm_campaign=Milwaukee: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-09-23 22:54:19,478 - enricher - DEBUG - Checking contact page: https://www.wicriminaldefense.com/contact
+2025-09-23 22:54:19,478 - enricher - DEBUG - Error scraping page https://www.wicriminaldefense.com/contact: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-09-23 22:54:20,483 - enricher - DEBUG - Checking contact page: https://www.wicriminaldefense.com/contact-us
+2025-09-23 22:54:20,484 - enricher - DEBUG - Error scraping page https://www.wicriminaldefense.com/contact-us: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-09-23 22:54:21,489 - enricher - DEBUG - Checking contact page: https://www.wicriminaldefense.com/contact.html
+2025-09-23 22:54:21,490 - enricher - DEBUG - Error scraping page https://www.wicriminaldefense.com/contact.html: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-09-23 22:54:22,490 - enricher - DEBUG - Trying pattern generation for Law Offices of Christopher J. Cherella
+2025-09-23 22:54:22,491 - enricher - INFO - Pattern generation created 9 emails for Law Offices of Christopher J. Cherella
+2025-09-23 22:54:22,492 - enricher - INFO - Successfully enriched Law Offices of Christopher J. Cherella with email: hello@wicriminaldefense.com
+2025-09-23 22:54:22,492 - enricher - DEBUG - Enrichment log: {"business_name": "Law Offices of Christopher J. Cherella", "website": "https://www.wicriminaldefense.com/?utm_source=GMB&utm_medium=organic&utm_campaign=Milwaukee", "methods_tried": ["website_scraping", "pattern_generation"], "emails_found_count": 9, "success": true, "timestamp": "2025-09-23T22:54:22.492500"}
+Enriching businesses  [################################----]   90%  00:00:062025-09-23 22:54:22,496 - enricher - INFO - Enriching business: Katz Law, LLC
+2025-09-23 22:54:22,496 - enricher - DEBUG - Trying website scraping for Katz Law, LLC
+2025-09-23 22:54:22,496 - enricher - DEBUG - Using traditional scraping for http://katzlegaldefense.com/
+2025-09-23 22:54:22,496 - enricher - DEBUG - Error scraping page http://katzlegaldefense.com/: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-09-23 22:54:22,497 - enricher - DEBUG - Checking contact page: http://katzlegaldefense.com/contact
+2025-09-23 22:54:22,497 - enricher - DEBUG - Error scraping page http://katzlegaldefense.com/contact: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-09-23 22:54:23,502 - enricher - DEBUG - Checking contact page: http://katzlegaldefense.com/contact-us
+2025-09-23 22:54:23,503 - enricher - DEBUG - Error scraping page http://katzlegaldefense.com/contact-us: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-09-23 22:54:24,508 - enricher - DEBUG - Checking contact page: http://katzlegaldefense.com/contact.html
+2025-09-23 22:54:24,509 - enricher - DEBUG - Error scraping page http://katzlegaldefense.com/contact.html: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-09-23 22:54:25,514 - enricher - DEBUG - Trying pattern generation for Katz Law, LLC
+2025-09-23 22:54:25,515 - enricher - INFO - Pattern generation created 9 emails for Katz Law, LLC
+2025-09-23 22:54:25,515 - enricher - INFO - Successfully enriched Katz Law, LLC with email: katz.info@katzlegaldefense.com
+2025-09-23 22:54:25,516 - enricher - DEBUG - Enrichment log: {"business_name": "Katz Law, LLC", "website": "http://katzlegaldefense.com/", "methods_tried": ["website_scraping", "pattern_generation"], "emails_found_count": 9, "success": true, "timestamp": "2025-09-23T22:54:25.516033"}
+Enriching businesses  [##################################--]   95%  00:00:032025-09-23 22:54:25,519 - enricher - INFO - Enriching business: Divergent Family Law
+2025-09-23 22:54:25,520 - enricher - DEBUG - Trying website scraping for Divergent Family Law
+2025-09-23 22:54:25,520 - enricher - DEBUG - Using traditional scraping for https://www.divergentfamilylaw.com/locations/milwaukee/?utm_source=google&utm_medium=organic&utm_campaign=GBPMilwauke
+2025-09-23 22:54:25,520 - enricher - DEBUG - Error scraping page https://www.divergentfamilylaw.com/locations/milwaukee/?utm_source=google&utm_medium=organic&utm_campaign=GBPMilwauke: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-09-23 22:54:25,520 - enricher - DEBUG - Checking contact page: https://www.divergentfamilylaw.com/contact
+2025-09-23 22:54:25,520 - enricher - DEBUG - Error scraping page https://www.divergentfamilylaw.com/contact: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-09-23 22:54:26,525 - enricher - DEBUG - Checking contact page: https://www.divergentfamilylaw.com/contact-us
+2025-09-23 22:54:26,526 - enricher - DEBUG - Error scraping page https://www.divergentfamilylaw.com/contact-us: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-09-23 22:54:27,526 - enricher - DEBUG - Checking contact page: https://www.divergentfamilylaw.com/contact.html
+2025-09-23 22:54:27,527 - enricher - DEBUG - Error scraping page https://www.divergentfamilylaw.com/contact.html: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-09-23 22:54:28,532 - enricher - DEBUG - Trying pattern generation for Divergent Family Law
+2025-09-23 22:54:28,533 - enricher - INFO - Pattern generation created 9 emails for Divergent Family Law
+2025-09-23 22:54:28,533 - enricher - INFO - Successfully enriched Divergent Family Law with email: support@divergentfamilylaw.com
+2025-09-23 22:54:28,534 - enricher - DEBUG - Enrichment log: {"business_name": "Divergent Family Law", "website": "https://www.divergentfamilylaw.com/locations/milwaukee/?utm_source=google&utm_medium=organic&utm_campaign=GBPMilwauke", "methods_tried": ["website_scraping", "pattern_generation"], "emails_found_count": 9, "success": true, "timestamp": "2025-09-23T22:54:28.533972"}
+Enriching businesses  [####################################]  100%          
+📧 Enriched 20/20 businesses with email addresses
+📤 Exporting results as csv...
+2025-09-23 22:54:28,539 - exporter - INFO - Exported 20 businesses to CSV: ./data/exports/gmaps_leads_9a031bdac4c9_20250923_225428.csv
+✅ Exported to: ./data/exports/gmaps_leads_9a031bdac4c9_20250923_225428.csv
+🎉 Search completed! Job ID: 9a031bdac4c9
