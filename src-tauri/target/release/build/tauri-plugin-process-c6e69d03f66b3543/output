@@ -1,0 +1,7 @@
+cargo:rerun-if-changed=permissions
+cargo:PERMISSION_FILES_PATH=/Users/alexpelletier/Documents/gmapsscraper/src-tauri/target/release/build/tauri-plugin-process-c6e69d03f66b3543/out/tauri-plugin-process-permission-files
+cargo:rerun-if-env-changed=REMOVE_UNUSED_COMMANDS
+cargo:GLOBAL_API_SCRIPT_PATH=/Users/alexpelletier/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tauri-plugin-process-2.3.0/api-iife.js
+cargo:rustc-check-cfg=cfg(mobile)
+cargo:rustc-check-cfg=cfg(desktop)
+cargo:rustc-cfg=desktop

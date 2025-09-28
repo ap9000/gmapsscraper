@@ -1,0 +1,60 @@
+{
+  "$schema": "https://schema.tauri.app/config/2.0.0",
+  "productName": "GMaps Lead Generator",
+  "version": "2.0.0",
+  "identifier": "com.yourcompany.gmaps-lead-generator",
+  "build": {
+    "beforeBuildCommand": "cd frontend && npm run build",
+    "beforeDevCommand": "cd frontend && npm run build",
+    "frontendDist": "../frontend/dist"
+  },
+  "bundle": {
+    "active": true,
+    "targets": "all",
+    "category": "Business",
+    "copyright": "Copyright © 2024",
+    "externalBin": [],
+    "longDescription": "Professional Google Maps lead generation tool with enhanced email discovery",
+    "macOS": {
+      "entitlements": null,
+      "exceptionDomain": "",
+      "frameworks": [],
+      "providerShortName": null,
+      "signingIdentity": null
+    },
+    "resources": [],
+    "shortDescription": "Google Maps Lead Generator",
+    "windows": {
+      "certificateThumbprint": null,
+      "digestAlgorithm": "sha256",
+      "timestampUrl": ""
+    }
+  },
+  "app": {
+    "windows": [
+      {
+        "title": "GMaps Lead Generator",
+        "width": 1400,
+        "height": 900,
+        "minWidth": 1200,
+        "minHeight": 700,
+        "resizable": true,
+        "fullscreen": false,
+        "decorations": true,
+        "alwaysOnTop": false,
+        "skipTaskbar": false
+      }
+    ],
+    "security": {
+      "csp": {
+        "default-src": "'self' 'unsafe-inline' data: https: http: ws: wss:",
+        "script-src": "'self' 'unsafe-inline' 'unsafe-eval'",
+        "style-src": "'self' 'unsafe-inline'",
+        "font-src": "'self' data:",
+        "img-src": "'self' data: https: http:",
+        "connect-src": "'self' http://localhost:8000 ws://localhost:8000 wss://localhost:8000"
+      }
+    }
+  },
+  "plugins": {}
+}

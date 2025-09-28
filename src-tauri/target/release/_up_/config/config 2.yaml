@@ -1,0 +1,71 @@
+# Google Maps Lead Generator Configuration
+
+apis:
+  scrapingdog:
+    api_key: "68d373cbb2c8ad1c3f875812"
+    requests_per_second: 10
+    base_url: "https://api.scrapingdog.com/google_maps"
+  
+  hunter:
+    api_key: ""  # Optional - leave blank to disable
+    enabled: false
+    requests_per_minute: 50
+
+settings:
+  # Rate limiting (requests per period)
+  daily_limit: 10000      # ~$3.30/day at ScrapingDog rates
+  weekly_limit: 50000     # ~$16.50/week  
+  monthly_limit: 200000   # ~$66/month (under $100 budget)
+  
+  # Results and caching
+  max_results_per_search: 200
+  enable_caching: true
+  cache_ttl_days: 30
+  export_format: "csv"  # csv or json
+  
+  # Proxy settings for website scraping
+  proxy_file: "./proxies.txt"
+  proxy_rotation: true
+  proxy_timeout: 10
+
+enrichment:
+  # Email extraction priority (1=highest, 5=lowest)
+  enable_website_scraping: true    # Priority 1 - Free (Scrapling + httpx)
+  enable_curl_cffi: true           # Priority 2 - Free (Enhanced browser impersonation)  
+  enable_hunter: false             # Priority 3 - Paid ($0.049/email)
+  enable_pattern_generation: true  # Priority 4 - Free
+  
+  # Scrapling settings (advanced web scraping)
+  use_scrapling: false             # Disable temporarily due to macOS compatibility issues
+  scrapling_headless: true         # Run browser in headless mode
+  scrapling_auto_bypass_cloudflare: true  # Auto bypass Cloudflare protection
+  
+  # curl_cffi settings (enhanced web scraping)
+  curl_cffi_max_retries: 2         # Max retry attempts for curl_cffi
+  
+  email_confidence_threshold: 0.7
+  website_scrape_timeout: 15
+  max_emails_per_business: 3
+
+# HubSpot Integration (Optional)
+hubspot:
+  enabled: false
+  access_token: "YOUR_HUBSPOT_ACCESS_TOKEN_HERE"
+  client_id: "YOUR_HUBSPOT_CLIENT_ID"
+  client_secret: "YOUR_HUBSPOT_CLIENT_SECRET"
+  batch_size: 50  # Max 100 per batch
+  rate_limit_per_10s: 80  # Conservative (HubSpot allows 100)
+
+# File paths
+paths:
+  exports_dir: "./data/exports"
+  cache_db: "./data/cache.db"
+  search_inputs: "./data/searches"
+  logs_dir: "./logs"
+
+# Logging
+logging:
+  level: "INFO"  # DEBUG, INFO, WARNING, ERROR
+  file: "./logs/gmaps_scraper.log"
+  max_file_size: "10MB"
+  backup_count: 5

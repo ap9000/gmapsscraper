@@ -1,0 +1,11 @@
+query,location,max_results
+"law offices","San Francisco, CA",50
+"dental practices","New York, NY",75
+"restaurants","Chicago, IL",100
+"gyms","Los Angeles, CA",50
+"coffee shops","Seattle, WA",25
+"hair salons","Miami, FL",40
+"auto repair shops","Dallas, TX",60
+"real estate agents","Boston, MA",80
+"veterinarians","Austin, TX",30
+"accounting firms","Denver, CO",45

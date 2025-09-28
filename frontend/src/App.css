@@ -1,0 +1,128 @@
+/* Global styles for GMaps Lead Generator */
+#root {
+  width: 100%;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
+/* Ant Design customizations */
+.ant-layout {
+  min-height: 100vh;
+}
+
+.ant-layout-sider {
+  box-shadow: 2px 0 8px rgba(0, 0, 0, 0.1);
+}
+
+.ant-layout-header {
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Custom components */
+.progress-card {
+  border-left: 4px solid #1890ff;
+}
+
+.stats-card {
+  text-align: center;
+  transition: all 0.3s ease;
+}
+
+.stats-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.quick-action-card {
+  text-align: center;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.quick-action-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+/* Search results table */
+.ant-table-tbody > tr > td {
+  padding: 8px 16px;
+}
+
+.ant-table-thead > tr > th {
+  background: #fafafa;
+  font-weight: 600;
+}
+
+/* Upload area */
+.ant-upload-drag {
+  background: #fafafa !important;
+}
+
+.ant-upload-drag:hover {
+  border-color: #1890ff;
+}
+
+/* Progress bars */
+.ant-progress-line {
+  margin-bottom: 8px;
+}
+
+/* Cards */
+.ant-card-head-title {
+  font-weight: 600;
+}
+
+.ant-card-small > .ant-card-head {
+  padding: 0 12px;
+  min-height: 42px;
+}
+
+.ant-card-small > .ant-card-body {
+  padding: 12px;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .ant-layout-sider {
+    width: 200px !important;
+    min-width: 200px !important;
+    max-width: 200px !important;
+  }
+  
+  .ant-layout-content {
+    margin: 8px !important;
+  }
+  
+  .ant-card-small > .ant-card-body {
+    padding: 8px;
+  }
+}
+
+/* Dark mode enhancements */
+[data-theme='dark'] .stats-card {
+  background: #141414;
+  border-color: #303030;
+}
+
+[data-theme='dark'] .quick-action-card {
+  background: #141414;
+  border-color: #303030;
+}
+
+/* Loading states */
+.loading-overlay {
+  position: relative;
+}
+
+.loading-overlay::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(255, 255, 255, 0.8);
+  z-index: 10;
+}

@@ -1,0 +1,74 @@
+Downloading model definition files...
+Error downloading input-network.zip: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)>
+Error downloading input-network.zip: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)>
+Error downloading input-network.zip: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)>
+Error downloading input-network.zip: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)>
+INFO:     Started server process [71934]
+INFO:     Waiting for application startup.
+2025-09-24 19:24:10,752 - utils - INFO - Logging configured successfully
+2025-09-24 19:24:10,752 - main - INFO - Starting Google Maps Lead Generator
+2025-09-24 19:24:10,752 - database - INFO - Database initialized successfully
+2025-09-24 19:24:10,752 - utils - WARNING - Proxy file ./proxies.txt not found
+2025-09-24 19:24:10,773 - curl_cffi_scraper - INFO - CurlCffiScraper initialized: enabled
+2025-09-24 19:24:10,773 - enricher - INFO - curl_cffi scraper initialized for enhanced email discovery
+2025-09-24 19:24:10,774 - hubspot_integration - INFO - HubSpot integration is disabled
+2025-09-24 19:24:10,774 - main - INFO - All components initialized successfully
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+✅ GMaps Lead Generator API started successfully
+INFO:     127.0.0.1:56040 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56040 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56040 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56040 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56040 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56040 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56040 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56040 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56040 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56040 - "GET /api/status/system HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56042 - "GET /api/status/database HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56043 - "GET /api/costs/summary?days=1&current_month=false HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56083 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56083 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56083 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56083 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56083 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56083 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56083 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56083 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56083 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56083 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56083 - "GET /api/status/system HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56109 - "GET /api/status/database HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56110 - "GET /api/costs/summary?days=1&current_month=false HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60163 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60163 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60163 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60163 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60163 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60163 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60163 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60163 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60163 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60163 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60163 - "GET /api/status/system HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60184 - "GET /api/status/database HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60185 - "GET /api/costs/summary?days=1&current_month=false HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60163 - "GET /api/costs/summary?days=30&current_month=false HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60163 - "GET /api/status/config HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60186 - "GET /api/status/limits HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60210 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60210 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60270 - "GET /api/status/config HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60271 - "GET /api/status/limits HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60278 - "GET /api/status/config HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60279 - "GET /api/status/limits HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60278 - "GET /api/costs/summary?days=30&current_month=false HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60278 - "GET /api/status/config HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60279 - "GET /api/status/limits HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60377 - "HEAD /api/health HTTP/1.1" 405 Method Not Allowed
+INFO:     127.0.0.1:60396 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [71934]

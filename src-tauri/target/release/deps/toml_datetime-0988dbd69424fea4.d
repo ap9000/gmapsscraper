@@ -1,0 +1,10 @@
+/Users/alexpelletier/Documents/gmapsscraper/src-tauri/target/release/deps/toml_datetime-0988dbd69424fea4.d: /Users/alexpelletier/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_datetime-0.7.2/src/lib.rs /Users/alexpelletier/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_datetime-0.7.2/src/datetime.rs /Users/alexpelletier/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_datetime-0.7.2/src/de.rs /Users/alexpelletier/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_datetime-0.7.2/src/ser.rs
+
+/Users/alexpelletier/Documents/gmapsscraper/src-tauri/target/release/deps/libtoml_datetime-0988dbd69424fea4.rlib: /Users/alexpelletier/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_datetime-0.7.2/src/lib.rs /Users/alexpelletier/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_datetime-0.7.2/src/datetime.rs /Users/alexpelletier/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_datetime-0.7.2/src/de.rs /Users/alexpelletier/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_datetime-0.7.2/src/ser.rs
+
+/Users/alexpelletier/Documents/gmapsscraper/src-tauri/target/release/deps/libtoml_datetime-0988dbd69424fea4.rmeta: /Users/alexpelletier/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_datetime-0.7.2/src/lib.rs /Users/alexpelletier/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_datetime-0.7.2/src/datetime.rs /Users/alexpelletier/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_datetime-0.7.2/src/de.rs /Users/alexpelletier/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_datetime-0.7.2/src/ser.rs
+
+/Users/alexpelletier/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_datetime-0.7.2/src/lib.rs:
+/Users/alexpelletier/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_datetime-0.7.2/src/datetime.rs:
+/Users/alexpelletier/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_datetime-0.7.2/src/de.rs:
+/Users/alexpelletier/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_datetime-0.7.2/src/ser.rs:
